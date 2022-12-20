@@ -1,4 +1,4 @@
-[![masterhead](https://www.vectorstock.com/royalty-free-vector/web-development-neon-banner-design-vector-26918208)
+
 <h1 align="center">Hi 👋, I'm Nikita Gupta</h1>
 <h3 align="center">A passionate frontend developer</h3>
 <img align="right" alt="coding" width="400" src="https://tenor.com/en-GB/view/programming-gif-25868426">
@@ -22,8 +22,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nikitaguptaaa&show_icons=true&locale=en" alt="nikitaguptaaa" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nikitaguptaaa&" alt="nikitaguptaaa" /></p>
-
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nikitaguptaaa&" alt="nikitaguptaaa" /></>
