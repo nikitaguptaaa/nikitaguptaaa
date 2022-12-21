@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikitaguptaaa&label=Profile%20views&color=0e75b6&style=flat" alt="nikitaguptaaa" /> </p>
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **React & Nodejs**
 
 - 📫 How to reach me **ng765453@gmail.com**
 
